@@ -1,0 +1,29 @@
+CACHE MANIFEST
+
+#version 1.3 6-3-2015
+
+CACHE:
+
+#images
+
+
+#internal HTML documents
+http://localhost:8000/
+
+#style sheets
+http://localhost:8000/bootstrap/css/bootstrap.css
+http://localhost:8000/starter-template.css
+
+#style sheet images
+
+
+#javascript files
+http://localhost:8000/assets/js/jquery.min.js
+http://localhost:8000/bootstrap/js/bootstrap.min.js
+http://localhost:8000/assets/js/ie10-viewport-bug-workaround.js
+http://localhost:8000/js/pouchdb.js
+http://localhost:8000/js/jquery.js
+
+
+NETWORK:
+*
