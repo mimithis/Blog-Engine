@@ -157,8 +157,8 @@
 
 	//function that gets Post docs from the Db
 	function showPosts() {
-		$("#postArea").empty()
-		
+		//$("#postArea").empty()
+		$("#postArea").html("")
 		db.allDocs({
 			include_docs: true,
 			live: true,
